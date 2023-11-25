@@ -1,0 +1,15 @@
+.testimony_container{
+    margin-top: 50px;
+    color: black;
+    margin-left: 70px;
+    text-align: center;
+  }
+  
+  .testimony_img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 50% 30%;
+  }
+  

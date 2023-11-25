@@ -1,0 +1,38 @@
+.layout{ /* Se usa el punto para aplicar formato a las 2 diviones de layout (right and left) */
+
+    width: 1280px;
+    margin: 40px auto;
+  }
+  
+  .layout div{
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .layout h3{
+    font-size: 48px;
+    padding: 25px 0;
+  }
+  
+  .layout p{
+    padding: 25px 0;
+    line-height: 32px; /* Interlineado de texto */
+  }
+  
+  .layout-left .text{
+    width: 850px;;
+  }
+  
+  .layout-left .image{
+      
+    text-align: center;
+  }
+  
+  .layout-right .text{
+    width: 500px;;
+  }
+  
+  .layout-right .image{
+    width: 770px;;
+    text-align: center;
+  }

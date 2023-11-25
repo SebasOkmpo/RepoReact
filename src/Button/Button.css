@@ -1,0 +1,11 @@
+.button{ /* Este es el boton de AGREGAR CARRITO */
+    display: inline-block;
+    background-color: #2091F9;
+    justify-self: center;
+    color: white;
+    text-decoration: none;
+    padding: 13px 30px;
+    border-radius: 32px;
+    text-align: center;
+    margin-left: 45%;
+  }
